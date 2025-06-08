@@ -1,0 +1,13 @@
+.character-detail {
+  margin-top: 20px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  background: #fafafa;
+  border-radius: 8px;
+  max-width: 350px;
+}
+
+.character-detail img {
+  display: block;
+  margin-bottom: 10px;
+} 

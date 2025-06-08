@@ -1,0 +1,5 @@
+.filter-panel {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 16px;
+} 
