@@ -16,7 +16,7 @@ Bu proje, Rick and Morty API'sini kullanarak karakterleri listeleyen, filtreleye
 ### 1. Depoyu Klonlayın
 
 ```sh
-git clone https://github.com/kullanici-adi/rick-morty-app.git
+git clone https://github.com/Mr-Berke/rick-morty-app.git
 cd rick-morty-app
 ```
 
